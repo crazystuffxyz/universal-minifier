@@ -103,13 +103,12 @@ Open-source on GitHub (this repo): [Universal Minifier Repo](https://github.com/
 
 ## 🧪 Roadmap
 
-- [ ] Add media compression (images, video)
+- [ ] Add media compression (audio, video)
 - [ ] Hosted version
 - [ ] Threading to avoid DoS
-- [ ] Possible CLI Commands
-
 ---
 
 ## 📜 License
 
 MIT © 2025 [Shayaan Hooda](https://github.com/crazystuffxyz)
+See more licenses in NOTICE.md
